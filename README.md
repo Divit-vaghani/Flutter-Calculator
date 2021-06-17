@@ -1,4 +1,6 @@
-# calculator
+# Calculator
+
+# After Open the project make sure you click on get dependencies 
 
 A new Flutter application.
 
